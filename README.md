@@ -1,5 +1,5 @@
 # BioInformatics
 Assignment 1:
- i:Profile Matrix and Consensus Sequence
- ii: Hamming Distance
- iii: Brute Force Median
+\n i:Profile Matrix and Consensus Sequence
+\n ii: Hamming Distance
+\n iii: Brute Force Median
